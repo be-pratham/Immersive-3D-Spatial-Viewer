@@ -124,7 +124,7 @@ const StreetViewer = () => {
   const orbitRef = useRef(null);
 
   const imageSequence = useMemo(() => [
-    //ADD  YOUR IMAGES HERE
+    //ADD  YOUR IMAGES HERE AFTER ADDING IMAGES TO PUBLIC FOLDER
   ], []);
 
   // --- ACTIONS ---
